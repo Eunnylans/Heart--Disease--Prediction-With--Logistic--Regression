@@ -1,5 +1,9 @@
 # Heart--Disease--Prediction--with--Logistic--Regression
 
+## **Analyzing Heart Disease Dataset - Assignment**
+
+<img src="https://images.ctfassets.net/ut7rzv8yehpf/1DhC3uX3EeKnjU02LWyTXH/9c82e6ae82662ed5903eafb40d888d90/8_Main_Types_of_Heart_Disease.jpg?w=1800&h=900&q=50&fm=webp" width="1000px">
+
 # Instruction
 
 ## Problem Statement:-
